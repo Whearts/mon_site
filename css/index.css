@@ -1,0 +1,13 @@
+body{
+    background-color:lightcyan;
+}
+.buton { display :block;
+background-color: lightgreen;
+color: royalblue;
+border-color: lightgreen;
+border: black 3px solid;
+border-radius: 5px;
+width: 10vw;
+margin: 5px;
+padding: 5px;
+text-align: center;}
